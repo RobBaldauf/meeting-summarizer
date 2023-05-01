@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytest
+dynaconf
+python-multipart
+prometheus-fastapi-instrumentator
